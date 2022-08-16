@@ -1,5 +1,6 @@
 # haberlersayfam
-haberler sayfam btk akademi 2. gün sabahı modu
+
+BTK Akademi **Erzurum** 
 
 ## bizz bugün;
 *Body tasarımı - header, nav, article, footer
